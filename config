@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Ankita8055/Weather-Forecasting-System.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
